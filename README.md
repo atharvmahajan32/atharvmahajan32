@@ -36,7 +36,7 @@ Created a mordern ui for a car rental service.
 
 - Responsive frontend using React and Material UI.
 
-[🔗 Live Demo](https://hausderwagon.vercel.app/)
+[🔗 HausDerWagen](https://hausderwagon.vercel.app/)
 
 ---
 
