@@ -46,7 +46,7 @@ Created a mordern ui for a car rental service.
 **Summary:**  
 Designed a Fitness tracking service for managing fitness and nutrition balance.
 
-- Trained model fro posture recognition.
+- Trained model for posture recognition.
 - intrigated usage of model with streamlit app.
 - Build logic for detecting Reps.
 
