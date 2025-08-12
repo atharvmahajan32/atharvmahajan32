@@ -1,16 +1,64 @@
-## Hi there 👋
+# Atharv Mahajan
 
-<!--
-**atharvmahajan32/atharvmahajan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Web Developer**  
+Building smart solutions through data and code.  
 
-Here are some ideas to get you started:
+[LinkedIn](https://linkedin.com/in/atahrvmahajan63) • [Email](mailto:m.atharv063@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm a data-driven developer with a passion for uncovering insights and building interactive web applications. My work spans from machine learning models to full-stack web solutions, blending analytical rigor with practical software engineering.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. **LungCare.ai**
+**Role:** ML Engineer  
+**Tech Stack:** Python, Tensorflow, 
+**Summary:**  
+Developed a machine learning pipeline to predict if the patient has lung CANCER based on histopathological reports.
+
+- Trained ViT models for medical forecasting.
+- Deployed model via REST API using Gradio.
+
+[🔗 LungCare.ai](https://lungcareai.vercel.app/)
+
+---
+
+### 2. **HausDerWagen**
+**Role:** Frontend Web Developer  
+**Tech Stack:** React  
+**Summary:**  
+Created a mordern ui for a car rental service.
+
+- Responsive frontend using React and Material UI.
+
+[🔗 Live Demo](https://hausderwagon.vercel.app/)
+
+---
+
+### 3. **AI-Fitness-Tracker**
+**Role:** Data Scientist 
+**Tech Stack:** Python, OpenCV  
+**Summary:**  
+Designed a Fitness tracking service for managing fitness and nutrition balance.
+
+- Trained model fro posture recognition.
+- intrigated usage of model with streamlit app.
+- Biuld logic for detecting Reps.
+
+[🔗 AI-Fitness-Tracker](https://fitness-tracker-cv.streamlit.app/)
+
+---
+
+## 📚 Skills
+
+**Languages:** Python, JavaScript, SQL, HTML/CSS  
+**Frameworks & Tools:** React, FastAPI, Scikit-learn, TensorFlow, Pandas, NLTK, Jupyter Notebook
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Others:** Git, REST APIs
+
+---
