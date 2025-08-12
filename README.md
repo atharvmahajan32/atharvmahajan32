@@ -3,7 +3,7 @@
 **Data Scientist | Web Developer**  
 Building smart solutions through data and code.  
 
-[LinkedIn](https://linkedin.com/in/atahrvmahajan63) • [Email](mailto:m.atharv063@gmail.com)
+[Email](mailto:m.atharv063@gmail.com)
 
 ---
 
