@@ -48,17 +48,30 @@ Designed a Fitness tracking service for managing fitness and nutrition balance.
 
 - Trained model fro posture recognition.
 - intrigated usage of model with streamlit app.
-- Biuld logic for detecting Reps.
+- Build logic for detecting Reps.
 
 [🔗 AI-Fitness-Tracker](https://fitness-tracker-cv.streamlit.app/)
+
+---
+
+### 3. **Bank-Customer-Churn-Prediction**
+**Role:** Data Scientist 
+**Tech Stack:** Python, Sklearn, Tensorflow, Streamlit 
+**Summary:**  
+Trained a Bank-Customer-Churn-Prediction model.
+
+[🔗 Bank-Customer-Churn-Prediction](https://cst-churn-prediction.streamlit.app/)
 
 ---
 
 ## 📚 Skills
 
 **Languages:** Python, JavaScript, SQL, HTML/CSS  
+
 **Frameworks & Tools:** React, FastAPI, Scikit-learn, TensorFlow, Pandas, NLTK, Jupyter Notebook
+
 **Databases:** PostgreSQL, MongoDB, MySQL  
+
 **Others:** Git, REST APIs
 
 ---
