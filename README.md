@@ -28,19 +28,7 @@ Developed a machine learning pipeline to predict if the patient has lung CANCER 
 
 ---
 
-### 2. **HausDerWagen**
-**Role:** Frontend Web Developer  
-**Tech Stack:** React  
-**Summary:**  
-Created a mordern ui for a car rental service.
-
-- Responsive frontend using React and Material UI.
-
-[🔗 HausDerWagen](https://hausderwagon.vercel.app/)
-
----
-
-### 3. **AI-Fitness-Tracker**
+### 2. **AI-Fitness-Tracker** (Local Only)
 **Role:** Data Scientist 
 **Tech Stack:** Python, OpenCV  
 **Summary:**  
@@ -51,6 +39,18 @@ Designed a Fitness tracking service for managing fitness and nutrition balance.
 - Build logic for detecting Reps.
 
 [🔗 AI-Fitness-Tracker](https://fitness-tracker-cv.streamlit.app/)
+
+---
+
+### 3. **HausDerWagen**
+**Role:** Frontend Web Developer  
+**Tech Stack:** React  
+**Summary:**  
+Created a mordern ui for a car rental service.
+
+- Responsive frontend using React and Material UI.
+
+[🔗 HausDerWagen](https://hausderwagon.vercel.app/)
 
 ---
 
