@@ -34,7 +34,7 @@ Developed a machine learning pipeline to predict if the patient has lung CANCER 
 **Summary:**  
 Designed a Fitness tracking service for managing fitness and nutrition balance.
 
-- Trained model for posture recognition.
+- Finetuned Mediapipe model for posture recognition.
 - intrigated usage of model with streamlit app.
 - Build logic for detecting Reps.
 
