@@ -54,7 +54,7 @@ Created a mordern ui for a car rental service.
 
 ---
 
-### 3. **Bank-Customer-Churn-Prediction**
+### 4. **Bank-Customer-Churn-Prediction**
 **Role:** Data Scientist 
 **Tech Stack:** Python, Sklearn, Tensorflow, Streamlit 
 **Summary:**  
@@ -70,7 +70,7 @@ Trained a Bank-Customer-Churn-Prediction model.
 
 **Frameworks & Tools:** React, FastAPI, Scikit-learn, TensorFlow, Pandas, NLTK, Jupyter Notebook
 
-**Databases:** PostgreSQL, MongoDB, MySQL  
+**Databases:** PostgreSQL, MySQL  
 
 **Others:** Git, REST APIs
 
