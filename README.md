@@ -48,7 +48,7 @@ Designed a Fitness tracking service for managing fitness and nutrition balance.
 **Summary:**  
 Created a mordern ui for a car rental service.
 
-- Responsive frontend using React and Material UI.
+- Responsive frontend using React and ShadCN UI.
 
 [🔗 HausDerWagen](https://hausderwagon.vercel.app/)
 
