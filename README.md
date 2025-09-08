@@ -3,6 +3,7 @@
 **Data Scientist | Web Developer**  
 Building smart solutions through data and code.  
 
+athrv.me
 [Email](mailto:m.atharv063@gmail.com)
 
 ---
