@@ -1,82 +1,19 @@
-# Atharv Mahajan
+# 💫 About Me:
+🔭 I'm currently working on:<br>- Building new machine learning projects that apply my skills across different sectors.<br>- Developing new applications using computer vision and NLP techniques.<br>- Honing my skills with LangChain and the LLM APIs to create generative AI solutions.<br><br><br>👯 I'm looking to collaborate on:<br>- Open-source projects that leverage machine learning for social good or technological innovation.<br>- Challenging projects in computer vision, NLP and GenAI<br><br><br>🌱 I'm currently learning:<br>- Advanced cloud architecture patterns for scaling machine learning applications.<br>- The latest developments in Large Language Models and graph-based neural networks, such as LangGraph.<br><br>💬 Ask me about:<br>- Python, TensorFlow, and Scikit-Learn for building ML models.<br>- Developing full-stack applications with React and FastAPI.<br>- Real-time video processing with OpenCV and MediaPipe.<br><br>⚡ Fun fact:<br>- I love watching cars go ridiculously fast in circles.
 
-**Data Scientist | Web Developer**  
-Building smart solutions through data and code.  
 
-[athrv.me](https://athrv.me/) <br>
-[Email](mailto:m.atharv063@gmail.com)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvmahajan63) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.atharv063@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=atharvmahajan32&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=atharvmahajan32&theme=aura_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmahajan32&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧠 About Me
-
-I'm a data-driven developer with a passion for uncovering insights and building interactive web applications. My work spans from machine learning models to full-stack web solutions, blending analytical rigor with practical software engineering.
-
----
-
-## 🚀 Featured Projects
-
-### 1. **LungCare.ai**
-**Role:** ML Engineer  
-
-**Tech Stack:** Python, Tensorflow, 
-**Summary:**  
-Developed a machine learning pipeline to predict if the patient has lung CANCER based on histopathological reports.
-
-- Trained ViT models for medical forecasting.
-- Deployed model via REST API using Gradio.
-
-[🔗 LungCare.ai](https://lungcareai.vercel.app/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-### 2. **AI-Fitness-Tracker** (Local Only)
-**Role:** Data Scientist 
-
-**Tech Stack:** Python, OpenCV  
-**Summary:**  
-Designed a Fitness tracking service for managing fitness and nutrition balance.
-
-- Finetuned Mediapipe model for posture recognition.
-- intrigated usage of model with streamlit app.
-- Build logic for detecting Reps.
-
-[🔗 AI-Fitness-Tracker](https://fitness-tracker-cv.streamlit.app/)
-
----
-
-### 3. **HausDerWagen**
-**Role:** Frontend Developer  
-
-**Tech Stack:** React  
-**Summary:**  
-Created a mordern ui for a car rental service.
-
-- Responsive frontend using React and ShadCN UI.
-
-[🔗 HausDerWagen](https://hausderwagon.vercel.app/)
-
----
-
-### 4. **Bank-Customer-Churn-Prediction**
-**Role:** Data Scientist 
-
-**Tech Stack:** Python, Sklearn, Tensorflow, Streamlit 
-**Summary:**  
-Trained a Bank-Customer-Churn-Prediction model.
-
-[🔗 Bank-Customer-Churn-Prediction](https://cst-churn-prediction.streamlit.app/)
-
----
-
-## 📚 Skills
-
-**Languages:** Python, JavaScript, SQL, HTML/CSS  
-
-**Frameworks & Tools:** React, FastAPI, Scikit-learn, TensorFlow, Pandas, NLTK, Jupyter Notebook
-
-**Databases:** PostgreSQL, MySQL  
-
-**Others:** Git, REST APIs
-
----
+[![](https://visitcount.itsvg.in/api?id=atharvmahajan32&icon=5&color=0)](https://visitcount.itsvg.in)
